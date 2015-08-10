@@ -1,3 +1,3 @@
-# metis_ds4
+### Metis Project 1 - MTA Turstile Data
 
-Data science projects for Metis bootcamp
+Investigation of off-peak station traffic
